@@ -6,4 +6,4 @@ This bash script will automate the proccess of starting a new project. It will m
 Linux
 
 # File Creation Support
-Every File extension
+Every File extension you can edit with the touch command
